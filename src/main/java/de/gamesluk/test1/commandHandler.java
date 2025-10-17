@@ -21,7 +21,7 @@ public class commandHandler {
         }
         else if (command.equals("help")) {
             System.out.println("Available commands:");
-            System.out.println(" + or sum [number]       : Add number to the current result");
+            System.out.println(" + or sum [number]       : Add number to the current results");
             System.out.println(" - or subtract [number]  : Subtract number from the current result");
             System.out.println(" * or multiply [number]  : Multiply the current result by number");
             System.out.println(" / or divide [number]    : Divide the current result by number");
